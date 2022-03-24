@@ -68,7 +68,7 @@ L8: Introduction to CAM (de Weck, Col. Young) ([PDF]({{< baseurl >}}/resources/l
 5
 {{< tdclose >}}
 {{< tdopen >}}
-L9: Structural Testing (de Weck) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l9))
+L9: Structural Testing (de Weck) ([PDF]({{< baseurl >}}/resources/l9))
 {{< tdclose >}}
 
 {{< trclose >}}
