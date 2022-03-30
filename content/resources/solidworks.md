@@ -7,6 +7,7 @@ description: The purpose of this document is to provide a rough procedure of how
   (CAM) tools for manufacturing with a water jet cutter are detailed in this document.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/0c8edf8ac3d8147478231da42d732be2_solidworks.pdf
 file_type: application/pdf
+parent_uid: 379cc19e-1938-de69-287e-b14758a1fee1
 resourcetype: Document
 title: solidworks.pdf
 uid: 0c8edf8a-c3d8-1474-7823-1da42d732be2

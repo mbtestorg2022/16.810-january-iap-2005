@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Image
 title: team6_2.jpg
 uid: 121d6a1f-eb2e-cad1-be20-c0db22294abc

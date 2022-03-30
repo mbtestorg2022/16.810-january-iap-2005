@@ -14,6 +14,7 @@ description: 'Course Proposal Abstract: This paper presents a new undergraduate 
   a student assessment are discussed.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/0d56bb8e599181c69859a70dcb332122_courseabstract.pdf
 file_type: application/pdf
+parent_uid: df2f5bcf-2ace-b00c-6ae1-55761c3c4d0f
 resourcetype: Document
 title: courseabstract.pdf
 uid: 0d56bb8e-5991-81c6-9859-a70dcb332122

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Image
 title: team3_boom_2.jpg
 uid: d87176b4-f95e-01e1-92f1-55c5e3763c25

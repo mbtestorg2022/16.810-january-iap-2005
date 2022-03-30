@@ -36,7 +36,7 @@ Data Analysis Spreadsheet ([XLS - 1.1 MB]({{< baseurl >}}/resources/dataprotocol
 2004 Project Files
 ------------------
 
-![Components from student projects.](/courses/aeronautics-and-astronautics/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/projects/2004projects.jpg)
+{{< resource "d7e2fc9c-afb7-9368-fe13-dec43495dfda" >}}
 
 Various component designs and stages from student projects. (Courtesy of Alf Kohler, Namiko Yamamoto, Gregory Mark, Chris Voekler, Aaron Bell, and Conor Walsh.)
 

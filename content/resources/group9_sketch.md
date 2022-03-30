@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Image
 title: group9_sketch.jpg
 uid: 25b6722c-b23f-9221-4aed-4ce97d247077
